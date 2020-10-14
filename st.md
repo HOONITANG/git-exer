@@ -1,3 +1,3 @@
-status exer
+status exer 
 
-수정 했습니다.₩
+수정 했습니다.
