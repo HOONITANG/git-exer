@@ -3,5 +3,5 @@ Country와 함께하는 Git 교실
 pull test
 stash 실습작업
 
-fast-forward merge
+fast-forward merge / conflict test
 3waymerge
